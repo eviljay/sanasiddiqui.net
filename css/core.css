@@ -1,0 +1,47 @@
+body {
+	margin:0;
+	padding:0;
+	color:#333;
+	font-size:15px;
+	font-family:Verdana;
+}
+.title {font-family:Copperplate;}
+.big {font-size:45px;}
+.medium {font-size:32px;}
+#nav {overflow:hidden;position:fixed;top:0;left:0;display:inline-block;width:280px;height:100%;background:#A7194B;color:white;text-align:center;}
+#content {padding-left:280px;}
+.menu {text-decoration:none;color:darkgray;font-size:15px;}
+.white {color:white;}
+.menu:hover {color:white;}
+#header {
+	background-image: url("../images/bg.png");
+	background-repeat: no-repeat;
+	background-size:cover;
+	padding-top:100px;
+	background-position:center;
+	text-align:center;
+}
+#rive {
+	background-image: url("../images/riveimage.jpg");
+	background-repeat: no-repeat;
+	background-position:center;
+	background-size:cover;
+	text-align:center;
+}
+#edbg {
+	background-image: url("../images/edbg.jpg");
+	background-repeat: no-repeat;
+	background-position:center;
+	background-size:cover;
+	text-align:center;
+	padding-top:40px;
+	padding-bottom:40px;
+}
+#exbg {
+	background-image: url("../images/exbg.jpg");
+	background-repeat: no-repeat;
+	background-position:center;
+	background-size:cover;
+	text-align:center;
+}
+#copyright {padding-left:15px;color:gray;}
